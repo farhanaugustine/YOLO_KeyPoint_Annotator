@@ -1,6 +1,8 @@
 # YOLOv8 Keypoint Annotation Tools
 
-This repository contains two Python scripts designed to facilitate the creation of keypoint and bounding box annotations for training YOLOv8 pose estimation models.
+This repository contains two Python scripts designed to facilitate the creation of keypoint and bounding box annotations for training YOLOv8 pose estimation models for Animal Behavior Video Analysis.
+
+**While these tools are created for annotation of animal body-parts, script can be used to annotate other objects as well.**
 
 1.  **`Final_YOLO_Annotator_KeyPoint(SingleAnimal).py` :** Annotates exactly **one object/animal instance** per image.
 2.  **`Final_YOLO_annotator_keypoint(multiAnimal).py` :** Annotates **multiple object/animals instances** per image, supports **multiple classes**, and allows **toggling keypoint visibility**.
