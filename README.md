@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/963345981.svg)](https://doi.org/10.5281/zenodo.15379964)
+
 # YOLOv8 Keypoint Annotation Tools
 
 This repository contains two Python scripts designed to facilitate the creation of keypoint and bounding box annotations for training YOLOv8 pose estimation models for Animal Behavior Video Analysis.
